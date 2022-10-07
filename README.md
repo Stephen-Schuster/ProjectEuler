@@ -4,6 +4,8 @@
 ### "Project Euler is a series of challenging problems that require mathematical and programming skills."
 
 ### Here is an example of one of the hardest problems I've solved:
+![img](imgs/projectEuler88.png)
+My solution code is [here](ProjectEuler/Problem88.java)
 
 NOTE:
 If you want to solve Project Euler problems, DO NOT PROCEDE. It will ruin the fun of finding the solution
