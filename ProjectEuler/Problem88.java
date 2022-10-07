@@ -13,7 +13,7 @@ public class Problem88 {
 		for(int i = 4; ct[0]<limit-1; i++) { // i represents product sum numbers
 			if(!MyU.isPrime(i)) {
 				ArrayList<Integer> factors = MyU.pFactors(i);
-				ArrayList<Integer> factorsCopy = MyU.copy(factors);+
+				ArrayList<Integer> factorsCopy = MyU.copy(factors);
 				forLoops88(factors, factorsCopy, Ks, i, ct, timeCheck, tooLong);
 				tooLong[0] = false;
 				timeCheck[0] = System.currentTimeMillis();
